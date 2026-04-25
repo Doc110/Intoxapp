@@ -1,0 +1,6 @@
+{
+  "name": "IntoxiCheck",
+  "description": "Identifiez l'aliment responsable d'une intoxication alimentaire collective grâce à l'analyse épidémiologique et l'IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
